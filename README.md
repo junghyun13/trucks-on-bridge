@@ -17,3 +17,5 @@ weight=10
 truck_weights=[7,4,5,6]
 a=solution(bridge_length, weight, truck_weights)
 print(a)
+
+결과-> 8(초)
